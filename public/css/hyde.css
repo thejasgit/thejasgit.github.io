@@ -63,6 +63,8 @@ html {
     
     width:500px;
     height: 1000px;
+    background: white;
+     box-shadow: 3px 3px 7px #aeaaaa;
     
 }
 
