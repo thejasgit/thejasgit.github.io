@@ -1,0 +1,27 @@
+# Dependencies
+
+highlighter:      pygments
+baseurl:          /hyde/
+
+# Permalinks
+permalink:        pretty
+
+
+# Setup
+title:            Thejas Kumar Gangadhar
+tagline:          'My Blog'
+description:      'Tech Enthusiast | Software Developer'
+url:              http://hyde.getpoole.com
+
+
+author:
+  name:           'Thejas Kumar'
+  url:            https://twitter.com/thejasg13
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
