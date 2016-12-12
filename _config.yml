@@ -1,7 +1,7 @@
 # Dependencies
 
 highlighter:      pygments
-baseurl:          /hyde/
+baseurl:          /
 
 # Permalinks
 permalink:        pretty
@@ -16,7 +16,10 @@ url:              http://hyde.getpoole.com
 
 author:
   name:           'Thejas Kumar'
-  url:            https://twitter.com/thejasg13
+  twitter:        'https://twitter.com/thejasg13'
+  github:         'http://github.com/thejasgit'
+  linkedin:       'https://www.linkedin.com/in/thejaskumar'
+  email:          'tgangadh@usc.edu'
 
 paginate:         5
 
